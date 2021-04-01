@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danielsj01 I am currently in my first year of business computing at the University Of Greenwich
+- 👋 Hola, I’m @Danielsj01 I am currently in my first year of business computing at the University Of Greenwich
 - 👀 I’m interested in delvoping my mediocre coding skills and learning new skills
 - 🌱 I’m currently learning python
 
